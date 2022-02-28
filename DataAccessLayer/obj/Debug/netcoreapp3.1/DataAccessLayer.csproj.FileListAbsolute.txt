@@ -1,0 +1,13 @@
+C:\Users\Lojasoft\Documents\pichincha\test-practicos\MicroserviciosCleanArchitecture\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\Lojasoft\Documents\pichincha\test-practicos\MicroserviciosCleanArchitecture\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+C:\Users\Lojasoft\Documents\pichincha\test-practicos\MicroserviciosCleanArchitecture\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Lojasoft\Documents\pichincha\test-practicos\MicroserviciosCleanArchitecture\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Lojasoft\Documents\pichincha\test-practicos\MicroserviciosCleanArchitecture\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Lojasoft\Documents\pichincha\test-practicos\MicroserviciosCleanArchitecture\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Lojasoft\Documents\pichincha\test-practicos\MicroserviciosCleanArchitecture\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lojasoft\Documents\pichincha\test-practicos\MicroserviciosCleanArchitecture\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Lojasoft\Documents\pichincha\test-practicos\MicroserviciosCleanArchitecture\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Lojasoft\Documents\pichincha\test-practicos\MicroserviciosCleanArchitecture\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lojasoft\Documents\pichincha\test-practicos\MicroserviciosCleanArchitecture\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Lojasoft\Documents\pichincha\test-practicos\MicroserviciosCleanArchitecture\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Lojasoft\Documents\pichincha\test-practicos\MicroserviciosCleanArchitecture\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache
